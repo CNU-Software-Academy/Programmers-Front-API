@@ -35,3 +35,8 @@ npm start
 
 기존에 사용된던 baseURL (https://kdt.roto.codes)을 http://localhost:3030 으로 변경 후 사용 <br>
 기존에 적혀있는 post.json (DB역할) 내의 데이터 지우고 동작할 시 안될 수 있음(예외처리를 안해놨음) 따라서 id 1, 2는 남겨두고 API통신 진행해볼 것.
+
+### 나머지
+
+API 안되는게 많아서.. 계속 만들어보면서 실습해보려고 합니다. <br>
+editor-API라고 폴더명을 지어놨는데 이후 실습도 계속 저쪽에 추가할 예정입니다.
