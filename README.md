@@ -36,6 +36,10 @@ npm start
 기존에 사용된던 baseURL (https://kdt.roto.codes)을 http://localhost:3030 으로 변경 후 사용 <br>
 기존에 적혀있는 post.json (DB역할) 내의 데이터 지우고 동작할 시 안될 수 있음(예외처리를 안해놨음) 따라서 id 1, 2는 남겨두고 API통신 진행해볼 것.
 
+자동 편집기 API 예시 주소 : http://localhost:3030/posts
+무한 스크롤 API 예시 주소 : http://localhost:3030/cat-photos
+고양이 사진첩 API 예시 주소 : http://localhost:3030/cat-api
+
 ### 나머지
 
 API 안되는게 많아서.. 계속 만들어보면서 실습해보려고 합니다. <br>
