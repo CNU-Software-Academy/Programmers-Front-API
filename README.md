@@ -40,8 +40,9 @@ npm start
 
 무한 스크롤 API 예시 주소 : http://localhost:3030/cat-photos
 
-고양이 사진첩 API 예시 주소 : http://localhost:3030/cat-api
-=> selectedImageUrl 받을 때 node.filePath 로만 받으시면 됩니다.
+고양이 사진첩 API 예시 주소 : http://localhost:3030/cat-api <br>
+=> selectedImageUrl 받을 때 node.filePath 로만 받으시면 됩니다. <br>
+=> 노란고양이 폴더만 동작할 수 있게 해놨습니다. (좀 귀찮아서...)
 
 ### 나머지
 
